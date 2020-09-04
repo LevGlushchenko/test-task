@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@nuxtjs/svg-sprite": "^0.4.5",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "nuxt": "^2.0.0",
     "sass-loader": "^8.0.0"
   },
